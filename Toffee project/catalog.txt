@@ -1,0 +1,11 @@
+name,category,brand,unitType,discount,status,description,price,ID,quantity
+Chocolate Cake, Cake, BrandA, unit, 0, Available, Delicious, 50,1,100
+Dark Chocolate, Chocolate, BrandB, kg, 0, Available, Bitter, 200,2,100
+White Chocolate, Chocolate, BrandC, kg, 0, Available, Sweet, 180,3,100
+Choco Pie, Pastry, BrandD, unit, 0, Available, Fluffy, 30,4,100
+Chocolate Chip Cookies, Cookies, BrandE, kg, 0, Available, Crunchy, 150,5,100
+Chocolate Ice Cream, Ice Cream, BrandF, kg, 0, Available, Creamy, 300,6,100
+Chocolate Muffin, Muffin, BrandG, unit, 0, Available, Soft, 25,7, 30,100
+Chocolate Brownie, Brownie, BrandH, unit, 0, Available, Chewy, 35,8,100
+Chocolate Truffle, Candy, BrandI, unit, 0, Available, Rich, 10,9,100
+Chocolate Milk, Beverage, BrandJ, unit, 0, Available, Nutritious, 20,10,100
